@@ -58,7 +58,7 @@ Crear un objeto 3D (formato STL) con escala realista de una región determinada 
 
 ## Créditos
 
-Desarrollado por [Tu Nombre].
+Desarrollado por [Harry Guajan - Michael Yanez - Joel Tinitana - Francis Bravo].
 
 ## Licencia
 
